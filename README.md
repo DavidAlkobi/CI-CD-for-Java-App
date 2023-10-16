@@ -5,9 +5,9 @@ This is a DevOps portfolio project that demonstrates the entire software develop
 
 ### Project Details
 The project employs various technologies and methodologies:
-- Docker
+- Docker, SonarQube, Nexus, Slack.
 - Back-end: Node js is used to create a REST API to connect with the website's front-end.
 - Database: MongoDB is used to store and manage data in the application.
-- CI/CD: jenkins si used to automate the Continuous Integration and Delivery processes, resulting in a faster and more efficient development cycle.
+- CI/CD: jenkins is used to automate the Continuous Integration and Delivery processes, resulting in a faster and more efficient development cycle.
 - Deployment: ECS on Amazon Web Services .
 
