@@ -10,12 +10,12 @@ you can see different parts of the project on the following branches:
 
 ### Project Details
 The project employs various technologies and methodologies:
-- Docker for containerizing the application.
-- SonarQube for continuous inspection of code quality  with static analysis of code.
+- Docker for containerizing the application
+- SonarQube for continuous inspection of code quality  with static analysis of code
 - Nexus for storing the artifact
-- Slack for notifications.
-- Back-end: Java.
-- Database: MySQL is used to store and manage data in the application.
-- CI/CD: jenkins is used to automate the Continuous Integration and Delivery processes, resulting in a faster and more efficient development cycle.
-- Deployment: ECS on Amazon Web Services .
+- Slack for notifications
+- Back-end: Java
+- Database: MySQL is used to store and manage data in the application
+- CI/CD: jenkins is used to automate the Continuous Integration and Delivery processes, resulting in a faster and more efficient development cycle
+- Deployment: ECS on Amazon Web Services 
 
